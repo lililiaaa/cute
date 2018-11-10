@@ -22,7 +22,7 @@ var timer;
 var num=0
 timer=setInterval(function () {
     play();
-},1000)
+},1500)
 function play() {
 
     if (num > 3) {
