@@ -9,7 +9,7 @@
 
 }
 a{
-    color: #00A862;
+    color: #ff8ded;
 }
 .left{
     box-shadow: 0 0 4px rgba(0, 0, 0, 0.12);
@@ -177,6 +177,7 @@ line-height: 35px;
 .display-1{
     margin-bottom: 24px;
     font-weight: 700;
+    color: #e7bb4d;
 }
 .denglu{
     float: left;
@@ -194,7 +195,7 @@ line-height: 35px;
 }
 
 .zhuce{
-    border: 1px solid #00A862;
+    border: 1px solid #ff8ded;
     font-size: 16px;
     border-radius: 30px;
     padding: 5px 10px;
